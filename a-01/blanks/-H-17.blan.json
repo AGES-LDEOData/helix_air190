@@ -1,0 +1,38 @@
+{
+    "Ne20": {
+        "error": 0.001745188302771659,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-H-13"
+            }
+        ],
+        "value": 0.008215616220650613
+    },
+    "Ne21": {
+        "error": 7.65223005732701e-05,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-H-13"
+            }
+        ],
+        "value": 0.00014592737500610564
+    },
+    "Ne22": {
+        "error": 0.0007456057077725417,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-H-13"
+            }
+        ],
+        "value": 0.13165201863830261
+    }
+}
