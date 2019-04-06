@@ -1,0 +1,35 @@
+{
+    "Ne20": {
+        "error": 0.0019733663827614287,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 1.524706912503381
+    },
+    "Ne21": {
+        "error": 0.00011564313582492178,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 0.00483058710629476
+    },
+    "Ne22": {
+        "error": 0.0010544257854210718,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": false,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 0.293325022026922
+    }
+}
