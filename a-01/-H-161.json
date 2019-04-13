@@ -1,0 +1,94 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 161,
+    "analysis_type": "air",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "e3119d58e9ff43ad1107f42949251b79fbc80c4e",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX_CDD": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "H2_CDD": {
+            "deflection": 0.0,
+            "gain": 1
+        },
+        "L2_CDD": {
+            "deflection": 0.0,
+            "gain": 1
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Test_pumpingHe",
+    "experiment_type": "Ne",
+    "extraction": "helix_Aux_x1_cryo_longer_freeze900_14_pumpHe.py",
+    "grainsize": "",
+    "identifier": "a-01-H",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "B",
+    "irradiation_position": 6,
+    "isotopes": {
+        "Ne20": {
+            "detector": "L2_CDD",
+            "name": "Ne20",
+            "serial_id": "00000"
+        },
+        "Ne21": {
+            "detector": "AX_CDD",
+            "name": "Ne21",
+            "serial_id": "00000"
+        },
+        "Ne22": {
+            "detector": "H2_CDD",
+            "name": "Ne22",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": null,
+    "lithology": null,
+    "lithology_class": null,
+    "lithology_group": null,
+    "lithology_type": null,
+    "longitude": null,
+    "mass_spectrometer": "Helix",
+    "material": "Gas",
+    "measurement": "helix_ne.py",
+    "post_equilibration": "helix_aux.py",
+    "post_measurement": "helix_pump_ms.py",
+    "principal_investigator": "AGES-LDEO",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Helix_air190",
+    "rlocation": "",
+    "sample": "air",
+    "source": {
+        "emission": 518.231,
+        "trap": 197.14
+    },
+    "spec_sha": "c9ff893b2adb056ebdd04f322d17987f44f4cca2",
+    "timestamp": "2019-04-13T18:38:52.368185",
+    "tripped_conditional": null,
+    "unit": null,
+    "username": "root",
+    "uuid": "2e622e80-b213-45c6-902b-fa408cd9e235",
+    "whiff_result": null
+}
